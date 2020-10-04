@@ -1,0 +1,29 @@
+#menu, #profile{
+    width: 6%;
+    float: left;
+}
+#bory{
+    width: 20%;
+    float: left;
+}
+.top{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.top-index{
+    width: 94%;
+    float: left;
+}
+.top-title, .top-logo{
+    width: 50%;
+    float: left;
+}
+#logo{
+    width: 10%;
+    float: right;
+    
+}
+.text-left{
+    text-align: left;
+}
